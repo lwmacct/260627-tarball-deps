@@ -1,6 +1,6 @@
 {
   "name": "@lwmacct/260627-tarball-deps",
-  "version": "0.2.260628",
+  "version": "0.3.260628",
   "private": false,
   "description": "CLI helpers for managing npm tarball dependencies in package.json.",
   "type": "module",
@@ -35,7 +35,7 @@
     "@types/node": "^26.0.1",
     "typescript": "^6.0.3",
     "vite": "^8.1.0",
-    "vite-plugin-dts": "^4.5.4"
+    "vite-plugin-dts": "^5.0.3"
   },
   "engines": {
     "node": ">=20.0.0"
